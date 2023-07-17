@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "academy app",
+      "name": "bratim-academy",
       "script": "src/index.js",
       "instances": 1,
       "autorestart": true,
