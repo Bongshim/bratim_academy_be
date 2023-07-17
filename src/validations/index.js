@@ -1,0 +1,17 @@
+module.exports.authValidation = require('./auth.validation');
+module.exports.userValidation = require('./user.validation');
+module.exports.variableValidation = require('./variable.validation');
+module.exports.messageTemplateValidation = require('./message_template.validation');
+module.exports.categoryValidation = require('./category.validation');
+module.exports.courseValidation = require('./course.validation');
+module.exports.forumValidation = require('./forum.validation');
+module.exports.courseSessionValidation = require('./course_session.validation');
+module.exports.courseResourceValidation = require('./course_resource.validation');
+module.exports.roleValidation = require('./role.validation');
+module.exports.permissionValidation = require('./permission.validation');
+module.exports.orderValidation = require('./order.validation');
+module.exports.postValidation = require('./post.validation');
+module.exports.commentValidation = require('./comment.validation');
+module.exports.blogValidation = require('./blog.validation');
+module.exports.reportValidation = require('./report.validation');
+module.exports.tagValidation = require('./tag.validation');
